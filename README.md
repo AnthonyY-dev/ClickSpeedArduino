@@ -41,3 +41,6 @@ Connect the components as follows:
 1. **Clone this repository:**
    ```bash
    git clone [https://github.com/yourusername/click-speed-tester.git](https://github.com/AnthonyY-dev/ClickSpeedArduino.git)
+
+## Youtube Video
+- Here is a [youtube video](https://youtube.com/shorts/kKirBU0S8og?feature=share) I made on this project: https://youtube.com/shorts/kKirBU0S8og?feature=share
